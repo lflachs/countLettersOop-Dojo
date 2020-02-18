@@ -1,0 +1,12 @@
+{
+  "name": "countLettersOop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
